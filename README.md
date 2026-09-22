@@ -1,5 +1,5 @@
 - Hello, I’m Aidan Ayers
-- I am currently attending: Frederick Community College
+- I am currently attending: Towson University
 - I am majoring in Computer Science
 - My Personal/School projects will be posted here
 - Contact me at 07ayersaidan@gmail.com
